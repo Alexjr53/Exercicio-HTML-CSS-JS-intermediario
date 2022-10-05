@@ -1,0 +1,66 @@
+main{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: url(../images/bg-repeat.jpg) repeat-x;
+    background-size: contain;
+}
+
+.info{
+    max-width: 30rem;
+    margin-right: 6rem;
+    color: white;
+}
+
+.info .title{
+    font-size: 2rem;
+    font-weight: 900;
+    margin-bottom: 1.1rem;
+}
+
+.info .text{
+    font-size: 1.5rem;
+}
+
+.form-container{
+    background-color: white;
+    padding: 0.5rem 2.1rem 2.1rem;
+}
+
+.form-container .inputs{
+    margin-top: 1.5rem;
+    display: block;
+    border-radius: 5px;
+    padding: 5px 0.7rem 0.6rem;
+}
+
+.form-container .input-valid{
+    outline: auto;
+    outline-color: #3CCC87;
+}
+
+.form-container .input-invalid{
+    outline: auto;
+    outline-color: red;
+}
+
+.form-container .error-alert{
+    color: #F52E2E;
+    font-size: 0.8rem;
+    display: none;
+}
+
+.form-container p{
+    margin-top: 0.7rem;
+    font-size: 1.5rem;
+}
+
+.form-container .btn{
+    width: 29.8rem;
+    height: 4.1rem;
+    background-color: #3CCC87;
+    border: none;
+    color: white;
+    margin-top: 2rem;
+}
