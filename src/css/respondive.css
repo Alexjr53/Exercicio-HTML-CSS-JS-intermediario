@@ -1,0 +1,10 @@
+@media(max-width: 653px){
+    main{
+        flex-direction: column;
+        padding: 0;
+    }
+
+    .info{
+        margin: 0 0 4rem;
+    }
+}

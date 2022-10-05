@@ -5,6 +5,7 @@ main{
     justify-content: center;
     background: url(../images/bg-repeat.jpg) repeat-x;
     background-size: contain;
+    padding: 0 3rem;
 }
 
 .info{
@@ -37,16 +38,16 @@ main{
 
 .form-container .input-valid{
     outline: auto;
-    outline-color: #3CCC87;
+    outline-color: var(--valid-color);
 }
 
 .form-container .input-invalid{
     outline: auto;
-    outline-color: red;
+    outline-color: var(--invalid-color);
 }
 
 .form-container .error-alert{
-    color: #F52E2E;
+    color: var(--invalid-color);
     font-size: 0.8rem;
     display: none;
 }
@@ -59,8 +60,9 @@ main{
 .form-container .btn{
     width: 29.8rem;
     height: 4.1rem;
-    background-color: #3CCC87;
+    background-color: var(--valid-color);
     border: none;
     color: white;
     margin-top: 2rem;
+    cursor: pointer;
 }
