@@ -13,6 +13,5 @@ btnSubmit.addEventListener("click", function (event) {
         } else {
             inputs[index].classList.add("input-valid");
         }
-
     });
 })
