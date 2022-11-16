@@ -1,6 +1,6 @@
-# Exercicio HTML + CSS + JS + intermediario
+# Exercício formulário com validação
 
-Um repositório para o desafio da aula de HTML + CSS + JS + intermediário.
+Desafio da aula de HTML + CSS + JS - Formulário com uma validação simples usando javascript 
 
 [![NPM](https://img.shields.io/bower/l/MI)](https://github.com/Alexjr53/Exercicio-HTML-CSS-JS-intermediario/blob/main/license)
 
@@ -15,7 +15,7 @@ Um repositório para o desafio da aula de HTML + CSS + JS + intermediário.
 - [Autor](#autor)
 - [Agradecimentos](#agradecimentos)
 
-  ## Visão geral
+## Visão geral
 
 ### Desafio
 
@@ -27,16 +27,16 @@ Um repositório para o desafio da aula de HTML + CSS + JS + intermediário.
 ### Screenshot
 
 #### Desktop
-![formulário](src/images/screenshot-1.png)
+![formulário](src/design/screenshot-1.png)
 
-![formulário](src/images/screenshot-2.png)
+![formulário](src/design/screenshot-2.png)
 
-![formulário](src/images/screenshot-3.png)
+![formulário](src/design/screenshot-3.png)
 
 
 ### Links
 
-- URL da página: [Desafio HTML + CSS + JS intermediário](https://alexjr53.github.io/Exercicio-HTML-CSS-JS-intermediario/) 
+- URL da página: [Desafio HTML + CSS + JS](https://alexjr53.github.io/Exercicio-HTML-CSS-JS-intermediario/) 
 
 ## Meu processo
 
