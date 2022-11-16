@@ -17,6 +17,7 @@ main{
 .info .title{
     font-size: 2rem;
     font-weight: 900;
+    text-transform: uppercase;
     margin-bottom: 1.1rem;
 }
 
@@ -31,7 +32,9 @@ main{
 
 .form-container .inputs{
     margin-top: 1.5rem;
+    width: 29.8rem;
     display: block;
+    border: 1px solid #ccc;
     border-radius: 5px;
     padding: 5px 0.7rem 0.6rem;
 }
