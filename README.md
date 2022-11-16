@@ -36,7 +36,8 @@ Desafio da aula de HTML + CSS + JS - Formulário com uma validação simples usa
 
 ### Links
 
-- URL da página: [Desafio HTML + CSS + JS](https://alexjr53.github.io/Exercicio-HTML-CSS-JS-intermediario/) 
+- URL da página: [Formulário](https://alexjr53.github.io/Exercicio-HTML-CSS-JS-intermediario/) 
+- Repositório do projeto no GitHub: [Formulário](https://github.com/Alexjr53/Exercicio-formulario-com-javascript)
 
 ## Meu processo
 
